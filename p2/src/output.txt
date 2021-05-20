@@ -1,0 +1,8 @@
+@> total 48
+62260305  4 drwxr-xr-x 2 joelsare domain users  4096 Mar  4 17:15 .
+62260260  4 drwxr-xr-x 5 joelsare domain users  4096 Feb 23 10:49 ..
+62260598  0 -rw-r--r-- 1 joelsare domain users     0 Mar  4 16:49 error.txt
+62260306  4 -rw-r--r-- 1 joelsare domain users   179 Feb 23 10:27 Makefile
+62260251 24 -rwxr-xr-x 1 joelsare domain users 23008 Mar  4 17:15 myshell
+62260307  8 -rw-r--r-- 1 joelsare domain users  6989 Mar  4 17:15 myshell.c
+62260597  4 -rw-r--r-- 1 joelsare domain users     3 Mar  4 17:15 output.txt

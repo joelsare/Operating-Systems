@@ -1,0 +1,8 @@
+total 56
+63308135  4 drwxr-xr-x 2 joelsare domain users  4096 Apr  9 15:26 .
+63176933  4 drwxr-xr-x 5 joelsare domain users  4096 Mar 22 14:28 ..
+63308137  4 -rw-r--r-- 1 joelsare domain users   179 Mar 22 14:26 Makefile
+63307784 24 -rwxr-xr-x 1 joelsare domain users 23040 Apr  9 15:26 myshell
+63307777  8 -rwxr-xr-x 1 joelsare domain users  7449 Apr  5 14:18 #myshell.c#
+63308136 12 -rwxr-xr-x 1 joelsare domain users  8322 Apr  9 15:26 myshell.c
+63307785  0 -rw-r--r-- 1 joelsare domain users     0 Apr  9 15:26 pipefd[1]

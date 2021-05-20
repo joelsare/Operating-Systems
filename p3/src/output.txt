@@ -1,0 +1,7 @@
+@> incr 100000
+open shells: 1
+increment counter (local): 100000
+increment counter address (local): 0x559f6bd471f8
+increment counter (global): 100000
+increment counter address (global): 0x7f8bff9a3004
+@> 
